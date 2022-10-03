@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kundiel
+- 👋 Hi, I’m @kundai
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, PowerBI
 - 💞️ I’m looking to collaborate on Analysis projects
